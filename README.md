@@ -42,12 +42,12 @@
 ## 论文
 
 - [ ] [东京大学的用javascript实现的机器学习](http://mil-tokyo.github.io/miljs.html)
-- [] [Machine Intelligence Laboratory (The University of Tokyo) ](https://github.com/mil-tokyo)
+- [ ] [Machine Intelligence Laboratory (The University of Tokyo) ](https://github.com/mil-tokyo)
 
 ## 讨论
 
-- [] [Why doesn't anyone recommend JavaScript/Node.js as a language for machine learning or data analysis?](https://www.quora.com/Why-doesnt-anyone-recommend-JavaScript-Node-js-as-a-language-for-machine-learning-or-data-analysis)
+- [ ] [Why doesn't anyone recommend JavaScript/Node.js as a language for machine learning or data analysis?](https://www.quora.com/Why-doesnt-anyone-recommend-JavaScript-Node-js-as-a-language-for-machine-learning-or-data-analysis)
 
 ## gitbook
 
-- [] [Data Science with JavaScript](https://dtabio.gitbooks.io/data-science-with-javascript/content/links_and_resources.html)
+- [ ] [Data Science with JavaScript](https://dtabio.gitbooks.io/data-science-with-javascript/content/links_and_resources.html)
