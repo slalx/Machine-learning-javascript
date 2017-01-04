@@ -4,7 +4,8 @@
 
 ## PPT
 - [ ] [Mathine Learning for Javascript Hackers](http://harthur.github.io/txjs-slides/)
-
+- [ ] [Machine Learning in JavaScript](http://www.slideshare.net/jergason/machine-learning-in-javascript)
+- [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 ## 故事与经验
 - [ ] [一周的机器学习](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
@@ -38,6 +39,8 @@
 - [ ] [用javascript实现的神经网络](https://github.com/harthur/brain)
 - [ ] [mljs](https://github.com/mljs)
 - [ ] [用javascript实现的深度学习](https://github.com/karpathy/convnetjs)
+- [ ] [SVM library](https://github.com/karpathy/svmjs)
+- [ ] [Random Forest](https://github.com/karpathy/forestjs)
 
 ## 论文
 
@@ -51,3 +54,4 @@
 ## gitbook
 
 - [ ] [Data Science with JavaScript](https://dtabio.gitbooks.io/data-science-with-javascript/content/links_and_resources.html)
+- [ ] [Machine Learning in Javascript- A compilation of Resources](http://www.datasciencecentral.com/profiles/blogs/machine-learning-in-javascript-a-compilation-of-resources)
