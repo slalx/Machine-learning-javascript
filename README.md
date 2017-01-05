@@ -32,7 +32,11 @@
 - [ ] [Naive Bayes classifier](http://burakkanber.com/blog/machine-learning-naive-bayes-1/)
 - [ ] [Sentiment Analysis](http://burakkanber.com/blog/machine-learning-sentiment-analysis/)
 - [ ] [Full-Text Search](http://burakkanber.com/blog/machine-learning-full-text-search-in-javascript-relevance-scoring/)
-- [ ] [Neural network]()
+- [ ] [Neural network](http://karpathy.github.io/neuralnets/)
+
+## DEMO库
+
+- [ ] [ConvNetJS在浏览器中训练模型](http://cs.stanford.edu/people/karpathy/convnetjs/)
 
 ## Javascript算法库
 
